@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\bin\Debug\clockWinForms.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\bin\Debug\clockWinForms.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\bin\Debug\clockWinForms.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\obj\Debug\clockWinForms.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\obj\Debug\clockWinForms.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\obj\Debug\clockWinForms.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\obj\Debug\clockWinForms.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\obj\Debug\clockWinForms.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\clockWinForms\clockWinForms\obj\Debug\clockWinForms.pdb
